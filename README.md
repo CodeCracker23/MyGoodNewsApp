@@ -11,11 +11,6 @@ The project entails creating an iOS application that uses an API to identify onl
 ## Final Result
 <img src="GoodNewsApp.xcodeproj/sg4.png" width="260" height="480"/><img src="GoodNewsApp.xcodeproj/sg3.png" width="260" height="480"/><img src="GoodNewsApp.xcodeproj/sg2.png" width="260" height="480"/>
 
-## Extra Feature
-In case users may want to see the bad news on a particular topic or in general, there is a button on the top right side.\
-Going back from bad news to Good News is to swipe the table view down and refresh it.\
-<img src="GoodNewsApp.xcodeproj/sb1.png" width="260" height="480"/><img src="GoodNewsApp.xcodeproj/sb2.png" width="260" height="480"/>
-
 ### Requirements:
 Install Xcode 13\
 Copy and clone the project\
